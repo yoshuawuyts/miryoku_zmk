@@ -21,6 +21,7 @@ on:
         - "default"
         - "AZERTY"
         - "BEAKL15"
+        - "Canary"
         - "Colemak"
         - "ColemakDHK"
         - "Dvorak"
