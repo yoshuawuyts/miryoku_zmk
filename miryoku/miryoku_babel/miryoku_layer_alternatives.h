@@ -79,9 +79,9 @@ U_LT(U_BUTTON, J), U_MT(RALT, SLASH), &kp COMMA,         &kp K,             &kp 
 U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT(U_MOUSE, TAB),U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_CANARY \
-&kp W,             &kp L,             &kp Y,             &kp P,             &kp K,             &kp Z,             &kp X,             &kp O,             &kp U,             &kp SQT,             \
-U_MT(LGUI, C),     U_MT(LALT, R),     U_MT(LCTRL, S),    U_MT(LSHFT, T),    &kp B,             &kp F,             U_MT(LSHFT, N),    U_MT(LCTRL, E),    U_MT(LALT, I),     U_MT(LGUI, A),       \
-U_LT(U_BUTTON, J), U_MT(RALT, V),     &kp D,             &kp G,             &kp Q,             &kp M,             &kp H,             &kp SLASH,         U_MT(RALT, COMMA), U_LT(U_BUTTON, DOT), \
+&kp W,             &kp L,             &kp Y,             &kp P,             &kp B,             &kp Z,             &kp F,             &kp O,             &kp U,             &kp SQT,             \
+U_MT(LGUI, C),     U_MT(LALT, R),     U_MT(LCTRL, S),    U_MT(LSHFT, T),    &kp G,             &kp M,             U_MT(LSHFT, N),    U_MT(LCTRL, E),    U_MT(LALT, I),     U_MT(LGUI, A),       \
+U_LT(U_BUTTON, Q), U_MT(RALT, J),     &kp V,             &kp D,             &kp K,             &kp X,             &kp H,             &kp SLASH,         U_MT(RALT, COMMA), U_LT(U_BUTTON, DOT), \
 U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT(U_MOUSE, TAB),U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAK \
@@ -206,9 +206,9 @@ U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp 
 U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp TAB,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_TAP_CANARY \
-&kp W,             &kp L,             &kp Y,             &kp P,             &kp K,             &kp Z,             &kp X,             &kp O,             &kp U,             &kp SQT,           \
-&kp C,             &kp R,             &kp S,             &kp T,             &kp B,             &kp F,             &kp N,             &kp E,             &kp I,             &kp A,             \
-&kp J,             &kp V,             &kp D,             &kp G,             &kp Q,             &kp M,             &kp H,             &kp SLASH,         &kp COMMA,         &kp DOT,         \
+&kp W,             &kp L,             &kp Y,             &kp P,             &kp B,             &kp Z,             &kp F,             &kp O,             &kp U,             &kp SQT,           \
+&kp C,             &kp R,             &kp S,             &kp T,             &kp G,             &kp M,             &kp N,             &kp E,             &kp I,             &kp A,             \
+&kp Q,             &kp J,             &kp V,             &kp D,             &kp K,             &kp X,             &kp H,             &kp SLASH,         &kp COMMA,         &kp DOT,         \
 U_NP,              U_NP,              &kp ESC,           &kp SPACE,         &kp TAB,           &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_TAP_COLEMAK \
